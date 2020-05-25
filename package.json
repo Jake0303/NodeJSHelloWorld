@@ -1,0 +1,9 @@
+{
+  "name": "hello-world2",
+  "version": "0.0.0",
+  "description": "HelloWorld2",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
